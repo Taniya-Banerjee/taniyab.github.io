@@ -6,6 +6,6 @@
 - QA engineer
 
 ### Projects 
-[**Retail Optimizer**](https://github.com/Taniya-Banerjee/RetailPriceOptimizerAnalysis)
+[**Retail Optimizer**](https://github.com/Taniya-Banerjee/RetailPriceOptimizerAnalysis#modifying-front-matter)
 
   
